@@ -3,18 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/camilos-byte/async-landing.git"
+    "url": "git+https://github.com/camilos-byte/async-lading.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/camilos-byte/async-landing/issues"
+    "url": "https://github.com/camilos-byte/async-lading/issues"
   },
-  "homepage": "https://github.com/camilos-byte/async-landing#readme"
+  "homepage": "https://github.com/camilos-byte/async-lading#readme"
 }
